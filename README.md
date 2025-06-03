@@ -10,4 +10,19 @@ We believe development must be an enjoyable and creative experience to be truly 
 ## Code of Conduct
 In order to ensure that eveyone understand the subject, make sure everyone complete every 'Task Practice'. 
 
-## 
+## License 
+
+The IPE TP01 is open-sources software licensed under the [MIT license](https://opensource.org/license?categories=popular-strong-community) 
+
+## Example code 
+
+Java code example:
+  
+  
+      public class app{ 
+        public static void main(String[] args){
+              System.out.printin("Welcome to IPE TP01. ");
+        }
+      }
+  
+  
